@@ -8,7 +8,7 @@
 
 ## 🚀 Key Features
 
-### ⏱️ effortless Time Tracking
+### ⏱️ Effortless Time Tracking
 - Log your daily work hours with specific titles and tags.
 - Visual timeline of your day to spot gaps and patterns.
 - "Week Strip" view for quick weekly progress monitoring.
@@ -36,7 +36,7 @@
 
 **Workon** is currently available for Android devices.
 
-* **[Download on Google Play Store]([https://play.google.com/store/apps/details?id=com.bharatcode.workon])**
+* **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.bharatcode.workon)**
 
 ---
 
@@ -44,9 +44,12 @@
 
 We believe in total transparency regarding your data.
 
-* **[Read our Privacy Policy]([https://sites.google.com/view/workon-privacy-policy](https://sites.google.com/view/workon-privcay-policy/home))**
+* **[Read our Privacy Policy](https://sites.google.com/view/workon-privacy-policy)**
 
 If you have any questions, feedback, or need assistance with the app, please contact our support team:
 
 📧 **Email:** bharatcode@proton.me
 
+---
+
+*Made with ❤️ by Sahil Dhillon*
