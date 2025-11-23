@@ -36,7 +36,7 @@
 
 **Workon** is currently available for Android devices.
 
-[Download on Google Play Store](#) *(Link coming soon)*
+* **[Download on Google Play Store]([https://play.google.com/store/apps/details?id=com.bharatcode.workon])**
 
 ---
 
@@ -48,11 +48,5 @@ We believe in total transparency regarding your data.
 
 If you have any questions, feedback, or need assistance with the app, please contact our support team:
 
-📧 **Email:** workon.app.demo@gmail.com
+📧 **Email:** bharatcode@proton.me
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Statistics | Todo List |
-|:---:|:---:|:---:|
