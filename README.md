@@ -44,7 +44,7 @@
 
 We believe in total transparency regarding your data.
 
-* **[Read our Privacy Policy](https://sites.google.com/view/workon-privacy-policy)**
+* **[Read our Privacy Policy]([https://sites.google.com/view/workon-privacy-policy](https://sites.google.com/view/workon-privcay-policy/home))**
 
 If you have any questions, feedback, or need assistance with the app, please contact our support team:
 
